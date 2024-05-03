@@ -1,5 +1,6 @@
 # Interactive-Tool-NeuroFuzzy
 Interactive Quiz platform for neurofuzzy
+Live Demo - https://6633fd1d07c75a4bd9633301--tangerine-pothos-7ffa96.netlify.app/
 
 
 ## Features
